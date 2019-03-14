@@ -15,18 +15,6 @@ By default, all attributes are included in your XAMPP installation.
 7.Select an installation location.
 8.Click Finish when prompted.
 
-Docker setup:
-1.Go to https://www.docker.com.
-2. Click Get started.
-3.Click Download for windows.
-4.Sign in or signup and download will be continue.
-
-Running the tests:
-Explain how to run the automated tests for this system
-
-
-
-
 
 Built With:
 HTML
